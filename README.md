@@ -1,3 +1,3 @@
 # testrepo2
 
-Basic info
+Basic info.
